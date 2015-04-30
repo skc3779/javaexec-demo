@@ -2,3 +2,7 @@
                 rightNow: 13:53:03.195
 13:53:14.595 [main] INFO  r.LocalDates -
                 today: 2015-04-30
+14:34:42.902 [main] INFO  r.LocalTimes -
+                rightNow: 14:34:42.899
+14:35:13.563 [main] INFO  r.LocalDates -
+                today: 2015-04-30
